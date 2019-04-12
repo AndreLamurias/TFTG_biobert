@@ -1,6 +1,10 @@
 # TFTG_biobert
 
 
+[![DOI](https://zenodo.org/badge/181020529.svg)](https://zenodo.org/badge/latestdoi/181020529)
+
+
+
 Code written during the GREEKC Malaga Hackathon
 The objective was to generate features to train a BERT model for TFTG relation extraction
 using this repository: https://github.com/dmis-lab/biobert v1.0
